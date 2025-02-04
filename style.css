@@ -1,0 +1,11 @@
+body{
+	background-color: black;
+	color: white;
+	font-family: "consolas";
+}
+#py{
+	color: yellow;
+}
+#nopy{
+	color: #05dbf7;
+}
